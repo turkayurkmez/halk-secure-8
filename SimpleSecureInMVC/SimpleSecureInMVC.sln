@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSecureInMVC", "SimpleSecureInMVC\SimpleSecureInMVC.csproj", "{E9AF5F5E-BDF1-4D70-BCAF-511E8D7D4101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AF5F5E-BDF1-4D70-BCAF-511E8D7D4101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AF5F5E-BDF1-4D70-BCAF-511E8D7D4101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AF5F5E-BDF1-4D70-BCAF-511E8D7D4101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AF5F5E-BDF1-4D70-BCAF-511E8D7D4101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D10EF85C-DB44-4B99-A845-78CE4DD6869A}
+	EndGlobalSection
+EndGlobal
