@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@if (User.Identity.IsAuthenticated)
+{
+    <p>Merhaba @User.Identity.Name, senin bu uygulamadaki rolün, @User.Claims.ToList()[1].Value</p>
+}
+
+
